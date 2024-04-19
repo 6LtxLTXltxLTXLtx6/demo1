@@ -16,6 +16,7 @@ public class PersonShow {
         System.out.println("hot-fix");
         System.out.println("My Name is hot-fix");
         System.out.println("push操作");
+        System.out.println("pull操作");
     }
 
 }
