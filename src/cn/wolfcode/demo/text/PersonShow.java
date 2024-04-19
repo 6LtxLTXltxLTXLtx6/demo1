@@ -1,4 +1,7 @@
 package cn.wolfcode.demo.text;
+
+import javax.swing.*;
+
 /**
  * 这是一个个人信息展示类
  * */
@@ -10,6 +13,7 @@ public class PersonShow {
         System.out.println("第三次提交");
         System.out.println("你好，我是hot-fix分支");
         System.out.println("hot-fix");
+        System.out.println("My Name is hot-fix");
     }
 
 }
