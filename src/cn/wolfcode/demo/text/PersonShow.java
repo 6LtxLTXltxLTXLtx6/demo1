@@ -15,6 +15,7 @@ public class PersonShow {
         System.out.println("你好，我是hot-fix分支");
         System.out.println("hot-fix");
         System.out.println("My Name is hot-fix");
+        System.out.println("push操作");
     }
 
 }
