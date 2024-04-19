@@ -8,6 +8,7 @@ public class PersonShow {
         System.out.println("词穷了");
         System.out.println("你要干嘛");
         System.out.println("第三次提交");
+        System.out.println("你好，我是master主分支");
     }
 
 }
