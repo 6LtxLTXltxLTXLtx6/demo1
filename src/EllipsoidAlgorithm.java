@@ -5,6 +5,7 @@ import weka.core.Instances;
 public class LogisticRegressionExample {
 
     public static void main(String[] args) {
+        System.out.println("hello");
 
         // 假设有一个包含数据点的二维数组
         double[][] dataPoints = {
