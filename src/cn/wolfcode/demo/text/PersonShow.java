@@ -9,6 +9,7 @@ public class PersonShow {
         System.out.println("你要干嘛");
         System.out.println("第三次提交");
         System.out.println("你好，我是hot-fix分支");
+        System.out.println("hot-fix");
     }
 
 }
