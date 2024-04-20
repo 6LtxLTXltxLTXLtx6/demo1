@@ -20,6 +20,7 @@ public class PersonShow {
     System.out.println("heiheihei 我正在使用vscode进行代码管理");
     System.out.println("为什么？");
     System.out.println("烦死了");
+    System.out.println("被自己蠢死了");
   }
 
 }
