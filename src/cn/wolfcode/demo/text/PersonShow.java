@@ -18,6 +18,7 @@ public class PersonShow {
     System.out.println("push操作");
     System.out.println("pull操作");
     System.out.println("heiheihei 我正在使用vscode进行代码管理");
+    System.out.println("为什么？");
   }
 
 }
