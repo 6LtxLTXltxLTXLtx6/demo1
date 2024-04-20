@@ -23,6 +23,7 @@ public class PersonShow {
     System.out.println("被自己蠢死了");
     System.out.println("chun si le");
     System.out.println("why?");
+    System.out.println("123");
   }
 
 }
